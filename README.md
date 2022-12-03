@@ -5,3 +5,7 @@ This will be a ongoing project that I will over time add onto as there are a lot
 To view or use you must download the file and then upload it into MIT App Inventor (https://appinventor.mit.edu/).
 
 Thanks for using!
+
+Version 1: First draft for the project. 
+
+Version 2: Fixed the 'save' button as if you exited the app the medication names would become erased. Now they are saved onto the database. I have also added a 'delete' button in case you accidentally add something you did not want.
