@@ -13,4 +13,4 @@ Version 2: Fixed the 'save' button as if you exited the app the medication names
 Version 3: Fixed the navigation button issue where it would not allow you to see the full button.
 
 Credits: 
-- Alarm Extention (https://puravidaapps.com/alarm.php) created by Taifun. It is avalible here (https://puravidaapps.com/).
+- Alarm Extention (https://puravidaapps.com/alarm.php) created by @Taifun (on MIT app inventor). It is avalible here (https://puravidaapps.com/).
