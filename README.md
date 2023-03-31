@@ -14,3 +14,7 @@ Version 3: Fixed the navigation button issue where it would not allow you to see
 
 Credits: 
 - Alarm Extention (https://puravidaapps.com/alarm.php) created by @Taifun (on MIT app inventor). It is avalible here (https://puravidaapps.com/).
+
+Awards:
+- Fourth place winner in School wide Science and Engineering Fair. 
+- Second place winner in Gwinnett County's Regional Science and Engineering Fair.
